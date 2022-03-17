@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\bin\Debug\net5.0\Club_do_livro.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\bin\Debug\net5.0\Club_do_livro.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\bin\Debug\net5.0\Club_do_livro.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\bin\Debug\net5.0\Club_do_livro.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\bin\Debug\net5.0\Club_do_livro.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\bin\Debug\net5.0\Club_do_livro.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\Club_do_livro.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\Club_do_livro.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\Club_do_livro.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\Club_do_livro.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\Club_do_livro.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\Club_do_livro.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\refint\Club_do_livro.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\Club_do_livro.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\Club_do_livro.ConsoleApp.genruntimeconfig.cache
+C:\Users\Carlos Daniel\source\repos\Clube_da_leitura\Club_do_livro\Club_do_livro.ConsoleApp\obj\Debug\net5.0\ref\Club_do_livro.ConsoleApp.dll
