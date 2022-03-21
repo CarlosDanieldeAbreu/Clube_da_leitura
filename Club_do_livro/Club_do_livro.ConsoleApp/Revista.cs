@@ -12,7 +12,7 @@ namespace Club_do_livro.ConsoleApp
         public int numeroDaEdicao;
         public int anoDaRevista;
         public string tipoDaCaixa;
-        public Caixa caixas;
+        public string categoriaRevista;
 
         #region codigo antes do Tiago
         //public void CadastrarRevista()
